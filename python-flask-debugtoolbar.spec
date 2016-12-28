@@ -10,7 +10,7 @@ Summary:	A port of the Django debug toolbar to Flask
 Summary(pl.UTF-8):	Odpowiednik Djangowego debuggera dla Flask
 Name:		python-%{module}
 Version:	0.9.0
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/F/Flask-DebugToolbar/Flask-DebugToolbar-%{version}.tar.gz
